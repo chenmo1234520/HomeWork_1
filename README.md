@@ -1,2 +1,4 @@
 # HomeWork_1
-代码实训练习
+
+1. 用记事本编写Java程序，要求输出 src下 Put.java
+
