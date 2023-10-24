@@ -1,4 +1,3 @@
-package test1.src;
 
 class Teacher {
     String name;
